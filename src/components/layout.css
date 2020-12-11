@@ -595,3 +595,179 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+body{
+background-image: url(../images/slide05.jpg);
+background-size: cover;
+}
+
+
+.jumb {
+margin-top: 20vh;
+background-image: url(../images/slide15.jpg);
+opacity: 0.6;
+height: 20px;
+}
+
+
+.fundo img{
+border: 50px solid rgba(216, 112, 147, 0.664);
+}
+
+.foto {
+margin-left: 2px;
+}
+
+.foto img{
+border-radius: 15px 50px;
+border: 10px solid rgba(190, 7, 7, 0.418);
+}
+
+.eu button {
+margin-left: 65px;
+border-radius: 50px;
+}
+
+.titulo{
+text-align: center;
+font-family: fantasy;
+letter-spacing: 2px;
+margin-top: -50px;
+
+
+}
+
+h1 :hover{
+background-color: rgb(207, 39, 185);
+}
+
+.titulo a {
+text-decoration: none;
+color: brown;
+border-radius: 20px;
+
+}
+
+.teste2 {
+margin-top: -48vh;
+
+}
+
+#teste3{
+background-color: #dc3546a6;
+}
+
+#teste3 img{
+border-radius: 30px;
+
+}
+
+#teste4{
+background-color: chocolate;
+}
+
+#teste4 img{
+border-radius: 30px;
+}
+
+#teste5{
+background-color: rgb(214, 213, 121);
+}
+
+#teste5 img{
+border-radius: 30px;
+}
+
+.texto {
+font-family: cursive;
+color:whitesmoke;
+text-align: center;
+}
+
+#text1{
+color: #aa1020a6;
+font-family: cursive;
+font-weight: bold;
+text-align: center;
+}
+
+#text2 {
+font-family: cursive;
+font-weight: bold;
+text-align: center;
+}
+
+#text3 {
+color: rgb(238, 128, 31);
+font-family: cursive;
+font-weight: bold;
+text-align: center;
+}
+
+#bot {
+background-color: #ebd1d4a6;
+border: 2px solid white;
+
+}
+
+#te {
+text-decoration: none;
+}
+
+span{
+color: rgb(238, 15, 15);
+font-family: cursive;
+font-weight: bold;
+}
+
+#bt1 button {
+margin-left: 70px;
+font-weight: bold;
+}
+
+#bt2 button{
+margin-left: 70px;
+font-weight: bold;
+}
+
+#bt3 button{
+margin-left: 70px;
+font-weight: bold;
+}
+
+.bg1 {
+background-color: rgba(255, 60, 0, 0.205);
+border: none;
+}
+
+.bg2 {
+background-color: #ffc1076b;
+border: none;
+}
+
+.bg3 {
+background-color: #28a7468e;
+border: none;
+}
+
+.lateral{
+margin-left: 70vh;
+margin-top: 15px;
+border: 5px solid rgba(255, 60, 0, 0.205);
+background-color: rgba(165, 42, 42, 0.486);
+border-radius: 50px 15px;
+
+}
+
+.lateral img{
+max-width: 60px;
+border-radius: 70px;
+}
+
+#one{
+font-family: cursive;
+color:rgba(255, 60, 0, 0.527);
+font-weight: bold;
+
+}
+
