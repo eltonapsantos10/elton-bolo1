@@ -101,7 +101,7 @@ const IndexPage = () => (
       </Row>
     </Container>
 
-    <Link to="/page-2/">Go to page 2</Link> <br />
+    <Link to="/page-2/">Página Bolos</Link> <br />
     <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
   </Layout>
 )
