@@ -2,10 +2,9 @@ import React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 
-import { Carousel, CardDec, Card, CardDeck, Container, Row, Col, Button, Jumbotron } from 'react-bootstrap'
+import { Carousel, Card, CardDeck, Container, Row, Col, Button, Jumbotron, } from 'react-bootstrap'
 
 import slide01 from '../images/slide01.jpg'
 import slide02 from '../images/slide02.jpg'
@@ -19,7 +18,6 @@ import slide12 from '../images/slide12.jpg'
 import slide13 from '../images/slide13.png'
 import slide11 from '../images/slide11.jpg'
 
-import slide15 from '../images/slide15.jpg'
 
 
 const IndexPage = () => (

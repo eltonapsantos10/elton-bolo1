@@ -5,9 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 
-import slide20 from '../images/slide20.jpg'
-
-import { Card, Button, Form, FormGroup } from "react-bootstrap"
+import { Card, Button, Form, } from "react-bootstrap"
 
 const ThirdPage = () => (
   <Layout>

@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { Card, Container, Button } from "react-bootstrap"
+import { Card, Container, Button,  } from "react-bootstrap"
 
 import slide14 from '../images/slide14.jpg'
 import slide13 from '../images/slide13.jpg'
