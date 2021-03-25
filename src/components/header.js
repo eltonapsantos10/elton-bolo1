@@ -25,6 +25,11 @@ const Header = ({ siteTitle }) => (
               <Link to="/page-3" className="nav-link" activeClassName="active">Contatos</Link>
             </Nav.Item>
 
+
+            <Nav.Item as="li">
+              <Link to="/page-5" className="nav-link" activeClassName="active">Orçamento</Link>
+            </Nav.Item>
+
            
           </Nav>
         </Navbar.Collapse>
