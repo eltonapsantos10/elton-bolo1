@@ -14,6 +14,7 @@ const SecondPage = () => (
   <Layout>
     <SEO title="Bolos" />
     <br></br> <br></br> <br></br> <br></br>
+    <br></br> <br></br> <br></br> <br></br>
 
    
 
