@@ -15,15 +15,7 @@ const SecondPage = () => (
     <SEO title="Bolos" />
     <br></br> <br></br> <br></br> <br></br>
 
-    <Card className="lateral">
-      <Card.Header> <p id="one">Receitas Especiais </p> </Card.Header>
-      <Card.Body>
-      <img src={slide14} alt="nome" />
-        <Card.Title> <p className="texto">Toda semana uma deliciosa surpresa!</p></Card.Title>
    
-        <Button id="bot"><Link id="te" to="/"><span>Descubra</span></Link></Button>
-      </Card.Body>
-    </Card>
 
     <Container className="teste2">
       <Card id="teste3" style={{ width: '18rem' }}>
